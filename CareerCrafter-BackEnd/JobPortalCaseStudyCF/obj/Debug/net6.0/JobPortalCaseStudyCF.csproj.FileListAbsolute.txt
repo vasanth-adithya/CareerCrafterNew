@@ -1,0 +1,419 @@
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.exe
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.deps.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.runtimeconfig.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MailKit.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.AssemblyReference.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfoInputs.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfo.cs
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CoreCompileInputs.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.sourcelink.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.JobPortalCaseStudyCF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.build.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\scopedcss\bundle\JobPortalCaseStudyCF.styles.css
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CopyComplete
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\refint\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.genruntimeconfig.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\ref\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.exe
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.deps.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.runtimeconfig.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MailKit.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.AssemblyReference.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfoInputs.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfo.cs
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CoreCompileInputs.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.sourcelink.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.JobPortalCaseStudyCF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.build.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\scopedcss\bundle\JobPortalCaseStudyCF.styles.css
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CopyComplete
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\refint\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.genruntimeconfig.cache
+C:\Users\ronro\Documents\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\ref\JobPortalCaseStudyCF.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.Development.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.exe
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.deps.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.runtimeconfig.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.pdb
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Castle.Core.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Humanizer.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MailKit.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MimeKit.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.AssemblyReference.cache
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfoInputs.cache
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfo.cs
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CoreCompileInputs.cache
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cs
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cache
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.sourcelink.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.build.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.development.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.JobPortalCaseStudyCF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.build.JobPortalCaseStudyCF.props
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JobPortalCaseStudyCF.props
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JobPortalCaseStudyCF.props
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\scopedcss\bundle\JobPortalCaseStudyCF.styles.css
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CopyComplete
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\refint\JobPortalCaseStudyCF.dll
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.pdb
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.genruntimeconfig.cache
+D:\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\ref\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.exe
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.deps.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.runtimeconfig.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MailKit.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.AssemblyReference.cache
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfoInputs.cache
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfo.cs
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CoreCompileInputs.cache
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.sourcelink.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.JobPortalCaseStudyCF.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.build.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JobPortalCaseStudyCF.props
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\scopedcss\bundle\JobPortalCaseStudyCF.styles.css
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CopyComplete
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\refint\JobPortalCaseStudyCF.dll
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.pdb
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.genruntimeconfig.cache
+C:\Users\ronro\Documents\CS\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF (2)\JobPortalCaseStudyCF\JobPortalCaseStudyCF\JobPortalCaseStudyCF\obj\Debug\net6.0\ref\JobPortalCaseStudyCF.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.Development.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\appsettings.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.exe
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.deps.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.runtimeconfig.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\JobPortalCaseStudyCF.pdb
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Castle.Core.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Humanizer.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\MailKit.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\MimeKit.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.AssemblyReference.cache
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfoInputs.cache
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.AssemblyInfo.cs
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CoreCompileInputs.cache
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cs
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.MvcApplicationPartsAssemblyInfo.cache
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.build.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.development.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.JobPortalCaseStudyCF.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.build.JobPortalCaseStudyCF.props
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.JobPortalCaseStudyCF.props
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.JobPortalCaseStudyCF.props
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\scopedcss\bundle\JobPortalCaseStudyCF.styles.css
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.csproj.CopyComplete
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\refint\JobPortalCaseStudyCF.dll
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.pdb
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\JobPortalCaseStudyCF.genruntimeconfig.cache
+D:\Case Study\New\CareerCrafter-JobPortal-main\CareerCrafter-BackEnd\JobPortalCaseStudyCF\obj\Debug\net6.0\ref\JobPortalCaseStudyCF.dll
